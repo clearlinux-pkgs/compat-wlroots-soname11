@@ -1,0 +1,14 @@
+# This file contains additional pkgconfig build requirements that did
+# not get picked up automatically. One name per line, no whitespace.
+egl
+libavcodec
+libavformat
+libavutil
+libcap
+libinput
+libpng
+libudev
+pixman-1
+wayland-protocols
+wayland-server
+xkbcommon
