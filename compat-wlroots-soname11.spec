@@ -7,7 +7,7 @@
 #
 Name     : compat-wlroots-soname11
 Version  : 0.16.2
-Release  : 21
+Release  : 22
 URL      : https://gitlab.freedesktop.org/wlroots/wlroots/-/archive/0.16.2/wlroots-0.16.2.tar.gz
 Source0  : https://gitlab.freedesktop.org/wlroots/wlroots/-/archive/0.16.2/wlroots-0.16.2.tar.gz
 Summary  : No detailed summary available
